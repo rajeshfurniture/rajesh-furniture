@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>admin &#8211; rajesh_website</title>
+	<title>admin &#8211; Rajesh Furniture</title>
 	<atom:link href="https://rajeshfurniture.github.io/rajesh-furniture/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rajeshfurniture.github.io/rajesh-furniture</link>
-	<description>Just another WordPress site</description>
+	<description>We make home beautiful</description>
 	<lastBuildDate>Fri, 25 Dec 2020 10:29:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>https://rajeshfurniture.github.io/rajesh-furniture/wp-content/uploads/2020/12/cropped-settee-sofa-couch-147701-32x32.jpg</url>
+	<title>admin &#8211; Rajesh Furniture</title>
+	<link>https://rajeshfurniture.github.io/rajesh-furniture</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://rajeshfurniture.github.io/rajesh-furniture/2020/12/25/hello-world/</link>
