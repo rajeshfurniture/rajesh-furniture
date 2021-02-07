@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
 
 <image>
 	<url>https://rajeshfurniture.github.io/rajesh-furniture/wp-content/uploads/2020/12/cropped-settee-sofa-couch-147701-32x32.jpg</url>
@@ -29,20 +29,23 @@
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://rajeshfurniture.github.io/rajesh-furniture/2020/12/25/hello-world/</link>
-					<comments>https://rajeshfurniture.github.io/rajesh-furniture/2020/12/25/hello-world/#comments</comments>
+		<link>https://rajeshfurniture.github.io/rajesh-furniture/hello-world/</link>
+					<comments>https://rajeshfurniture.github.io/rajesh-furniture/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 25 Dec 2020 10:29:42 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://rajeshfurniture.github.io/rajesh-furniture/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://rajeshfurniture.github.io/rajesh-furniture/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://rajeshfurniture.github.io/rajesh-furniture">Rajesh Furniture</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://rajeshfurniture.github.io/rajesh-furniture/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://rajeshfurniture.github.io/rajesh-furniture">Rajesh Furniture</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://rajeshfurniture.github.io/rajesh-furniture/2020/12/25/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://rajeshfurniture.github.io/rajesh-furniture/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

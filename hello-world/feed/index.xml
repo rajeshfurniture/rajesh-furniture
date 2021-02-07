@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Rajesh Furniture	</title>
-	<atom:link href="https://rajeshfurniture.github.io/rajesh-furniture/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://rajeshfurniture.github.io/rajesh-furniture</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="https://rajeshfurniture.github.io/rajesh-furniture/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rajeshfurniture.github.io/rajesh-furniture/hello-world/</link>
 	<description>We make home beautiful</description>
 	<lastBuildDate>Fri, 25 Dec 2020 10:29:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.6.1</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://rajeshfurniture.github.io/rajesh-furniture/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
